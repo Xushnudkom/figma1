@@ -1,0 +1,322 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    margin-top: 2%;
+}
+
+.start-intro {
+    display: flex;
+    align-items: center;
+}
+
+.Ansor-text {
+    color: black;
+    font-family: sans-serif;
+    display: inline-block;
+    font-size: 24px;
+    font-weight: 600;
+    margin-left: 1%;
+}
+
+.ansor-link {
+    display: inline-block;
+}
+
+.links  {
+    display: inline-block;
+    margin-left: 10%;
+    word-spacing: 25px;
+    font-size: 14px;
+    font-weight: 600;
+    
+}
+
+.links-4 {
+    display: inline-block;
+    text-decoration-line: none;
+    color: black;
+    
+    
+}
+
+.qabul {
+    color: white;
+    font-size: 15px;
+    font-family: sans-serif;
+    background-color: #DE2E54;
+    font-weight: 700;
+    letter-spacing: 2px;
+    word-wrap: break-word;
+    padding-top: 12px;
+    padding-left: 24px;
+    padding-bottom: 12px;
+    padding-right: 24px;
+
+    border-radius: 5%;
+    margin-left: 10%;
+    
+}
+
+.container {
+    max-width: 1100px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 0 10px;
+    
+} 
+
+.p1 {
+    font-size: 36px;
+    font-family: sans-serif;
+    font-weight: 700;
+    width: 500px;
+    margin-top: 3%;
+    
+    
+}
+
+.p2 {
+    font-size: 18px;
+    font-family: sans-serif;
+    font-weight: 400;
+    width: 440px;
+    
+    line-height: 27px;
+    
+}
+ 
+.qabul-2 {
+    color: white;
+    font-size: 15px;
+    font-family: sans-serif;
+    background-color: #DE2E54;
+    font-weight: 700;
+    letter-spacing: 2px;
+    word-wrap: break-word;
+    padding-top: 12px;
+    padding-left: 24px;
+    padding-bottom: 12px;
+    padding-right: 24px;
+    
+
+   
+    
+}
+
+.qabul-logo {
+    margin-top: 20%;
+}
+
+.img {
+   display: inline-block;
+   margin-left: 13.9%;
+   
+   
+}
+
+.chap-p {
+    display: inline-block;
+    color: white;
+    
+       
+    
+}
+
+
+
+.container-2 {
+    max-width: 1100px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 0 10px;
+    display: flex;
+    align-items: center;
+    
+} 
+
+.header {
+    background-color: #0EB4C1;
+    padding-top: 3%;
+    padding-bottom: 3%;
+}
+
+.Service {
+    font-size: 36px;
+    text-align: center;
+    margin-top: 4%;
+    font-weight: 700;
+    font-family: sans-serif;
+}
+
+.hijoma {
+    font-size: 24px;
+    font-family: sans-serif;
+    font-weight: 700%;
+
+}
+
+.imom-termiziy {
+    font-size: 16px;
+    font-family: sans-serif;
+    font-weight: 400;
+    width: 600px;
+    margin-top: 2%;
+    color: #222222;;
+    
+}
+
+.hij-im {
+    display: inline-block;
+
+    
+}
+
+.container-3 {
+    max-width: 864px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 0 10px;
+    display: flex;
+    align-items: center;
+}
+
+.container-4 {
+    max-width: 864px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 0 10px;
+    margin-top: 4%;
+    display: flex;
+    align-items: center;
+}
+
+.container-5 {
+    max-width: 864px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 0 10px;
+    margin-top: 4%;
+    display: flex;
+    align-items: center;
+}
+
+.container-6 {
+    max-width: 864px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 0 10px;
+    margin-top: 4%;
+    margin-bottom: 10%;
+    display: flex;
+    align-items: center;
+}
+
+.qabul-3 {
+    margin-left: 45%;
+    margin-bottom: 10%;
+    border-radius: 4%;
+    color: white;
+    font-size: 15px;
+    font-family: sans-serif;
+    background-color: #DE2E54;
+    font-weight: 700;
+    letter-spacing: 2px;
+    word-wrap: break-word;
+    padding-top: 12px;
+    padding-left: 24px;
+    padding-bottom: 12px;
+    padding-right: 24px;
+    
+}
+
+.qabul-pastgi {
+    font-size: 36px;
+    font-family: sans-serif;
+    font-weight: 700;
+    margin-bottom: 3%;
+    margin-top: 4%;
+    
+}
+
+.tel {
+    border-style:inset;
+    width: 15%;
+    text-align: center;
+    padding: 12px 24px;
+    border-radius: 15px;
+    margin-left: 2%;
+    border-color:white;
+    text-decoration: none;
+    color: white;
+    font-weight: 700px;
+    font-family: sans-serif;
+    display: inline-block;
+}
+
+.tel-2 {
+    border-style:inset;
+    width: 15%;
+    text-align: center;
+    padding: 12px 24px;
+    border-radius: 15px;
+    margin-left: 2%;
+    border-color: black;
+    text-decoration: none;
+    color:red; 
+    font-weight: 700px;
+    font-family: sans-serif;
+    display: inline-block;
+}
+ .border-1 {
+    text-align: center;
+    margin-top: 5%;
+ }
+
+ .border-0 {
+    background-color: #0EB4C1;
+    margin-top: 10%;
+    
+    padding-top: 3%;
+    padding-bottom: 4%;
+    color: white;
+ }
+
+ .links-futer {
+    display: inline-block;
+    margin-left: 41%;
+    word-spacing: 25px;
+    font-size: 14px;
+    font-weight: 600;
+    margin-bottom: 1%;
+    
+    
+    
+    
+    
+}
+
+.futer {
+    background-color: #222222;
+    color: white;
+    padding: 1%;
+}
+
+.Ansor-text-2 {
+    color:white;
+    font-family: sans-serif;
+    
+    font-size: 24px;
+    font-weight: 600;
+    
+}
+
+.links-5 {
+    display: inline-block;
+    text-decoration-line: none;
+    color: white; 
+}  
+    
